@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/faug"
+        android:icon="@drawable/faug_icon"
+        android:title="Fau-G" />
+    <item
+        android:id="@+id/dauntless"
+        android:icon="@drawable/dauntles_icon"
+        android:title="Dauntless" />
+    <item
+        android:id="@+id/wildRift"
+        android:icon="@drawable/wild_drift_icon"
+        android:title="League of Legends: Wild Rift" />
+    <item
+        android:id="@+id/chronicles"
+        android:icon="@drawable/chonicle_icon"
+        android:title="Summoners War: Chronicles" />
+    <item
+        android:id="@+id/pokemonUnite"
+        android:icon="@drawable/pokemon_icon"
+        android:title="Pokémon Unite" />
+    <item
+        android:id="@+id/odyssey"
+        android:icon="@drawable/odessry_icon"
+        android:title="Warhammer: Odyssey" />
+    <item
+        android:id="@+id/apexLegends"
+        android:icon="@drawable/apex_icon"
+        android:title="Apex Legends" />
+    <item
+        android:id="@+id/h1z1"
+        android:icon="@drawable/h1zi_icon"
+        android:title="H1Z1" />
+    <item
+        android:id="@+id/immortal"
+        android:icon="@drawable/immortal_icon"
+        android:title="Diablo Immortal" />
+    <item
+        android:id="@+id/exileMobile"
+        android:icon="@drawable/exile_icon"
+        android:title="Path of Exile Mobile" />
+</menu>
